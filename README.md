@@ -1,2 +1,2 @@
 # color-shifter-react-router
-A basic web application that allows the user to navigate between different colored pages.
+This is a practice exercise designed to improve React Router skills. It allows the user to navigate between different colored pages.
